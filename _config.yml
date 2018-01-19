@@ -2,15 +2,17 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://alex-hollander.com
+title: Personal Site
+email: alexhollander522@gmail.com
+author: Alex Hollander
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+          I've been programming games in the Unity game engine for the last 5 years. 
+          Some of my games have one awards, but most haven't seen the light of day. 
+          I'm interested in data science, and more 
+          specifically bioinformatics, functional programming,
+          AI, Shaders, cats, and local Philly lore. 
+copyright: 'Copyright &copy; 2018 Alex Hollander. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #

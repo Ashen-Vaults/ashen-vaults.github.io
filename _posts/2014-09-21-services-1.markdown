@@ -1,8 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: thats_me_py.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: About Me
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+I've been programming games in the Unity game engine for the last 5 years. 
+Some of my games have one awards, but most haven't seen the light of day. 
+I'm interested in data science, and more 
+specifically bioinformatics, functional programming,
+AI, Shaders, cats, and local Philly lore. 
