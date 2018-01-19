@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
@@ -33,3 +34,7 @@ The contents of this repository are licensed under the [Apache
 
 ## Version
 1.0.1
+=======
+# ashen-vaults.github.io
+Personal Website
+>>>>>>> 27512eb421439e8f76c004c0575442bf1d946add
