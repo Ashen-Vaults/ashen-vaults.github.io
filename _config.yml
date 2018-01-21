@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://alex-hollander.com
-title: Personal Site
+title: Unity Dev | Data Scientist
 email: alexhollander522@gmail.com
 author: Alex Hollander
 description: > # "Write an awesome description for your new site here. 
@@ -13,7 +13,7 @@ description: > # "Write an awesome description for your new site here.
           specifically bioinformatics, functional programming,
           AI, Shaders, cats, and local Philly lore. 
 copyright: 'Copyright &copy; 2018 Alex Hollander. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: Alex Hollander
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,6 +22,7 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme: jekyll-theme-hacker
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -35,4 +36,6 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/alexhollander522/
 
-theme: jekyll-theme-hacker
+
+
+github: [metadata]
