@@ -41,6 +41,14 @@ I primarily focused on developing an AI framework that allowed for utility-based
 
 **Awards**:
 
+This was our senior project while at Drexel University, which according to the Princeton review is a top ten school for game design. Every year Intel hosts a competition at GDC in San Francisco, where each of those schools sends 1 team to represent them in hopes to take hope either best in gameplay or art. A few months before GDC, Drexel held an internal competition to see who would represent the school. Because of our unique game play and art design, we were won the internal. While at GDC we set up a booth for people to check out the game, and it was extremely well received. Finally the big night came and after hours of anxiety, they announced the winners! Tune in below to see what happened (a lot of awkward standing)!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc7AbJmcaMo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-For more information about the game, or to download our latest playable build, please visit us at [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=697493532)
+For more information about the game, or to download our latest playable build, please visit us at 
+
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=697493532)
+
+[Twitter](https://twitter.com/51standfire)
+
+[Facebook](https://www.facebook.com/Mirrors-of-Grimaldi-1119154781450348/)
