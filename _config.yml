@@ -16,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: alex-hollander.com
+url: http://alex-hollander.com
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: pretty
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
