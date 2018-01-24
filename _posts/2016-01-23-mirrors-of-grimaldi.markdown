@@ -1,5 +1,5 @@
 ---
-title: ":video_game: Mirrors of Grimaldi"
+title: "Mirrors of Grimaldi"
 layout: post
 date: 2016-05-23 04:55
 tag: 
