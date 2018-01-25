@@ -22,7 +22,7 @@ externalLink: false
 
 ---
 
-**Mirrors of Grimald** is a four player splitscreen game where your health is represented by the size of your screen. Players will be pitted against each other as Grimaldi's Interdimensional Demonic Carnival invades the same medieval town in parallel timelines. As swarms of demonic minions attack the players, their screens will shrink and eventually crush them, knocking them out of the game. The last surviving player is declared the winner and is allowed to fight another day.
+**Mirrors of Grimaldi** is a four player splitscreen game where your health is represented by the size of your screen. Players will be pitted against each other as Grimaldi's Interdimensional Demonic Carnival invades the same medieval town in parallel timelines. As swarms of demonic minions attack the players, their screens will shrink and eventually crush them, knocking them out of the game. The last surviving player is declared the winner and is allowed to fight another day.
 
 
 ![Conceptual Art](/assets/images/mog/mog_concept.jpg)
