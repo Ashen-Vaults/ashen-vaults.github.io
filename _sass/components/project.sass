@@ -9,6 +9,8 @@
 
     > .link
         text-decoration: none
+        &:hover
+            opacity: .5
 
     > .link > .selfie
         //border: 1px solid green
@@ -17,12 +19,11 @@
         margin-bottom: 25px
         border-radius: 100%
         transition: all .2s
-        box-shadow: 1px 0px 10px grey
+        box-shadow: 1px 1px 10px grey
         opacity: 1
 
         &:hover
             box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-            opacity: .5
 
     > .link > .title
         font-weight: 100
