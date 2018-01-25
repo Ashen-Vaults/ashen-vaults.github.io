@@ -4,27 +4,29 @@
     text-align: center
     position: relative
     z-index: 99
-    padding: 1px 8px
+    padding: 18px
+    margin: auto
 
     > .link > .selfie
+        //border: 1px solid green
         width: 150px
         height: 150px
         margin-bottom: 25px
         border-radius: 100%
         transition: all .2s
-        box-shadow: 0
+        box-shadow: 1px 0px 10px grey
         opacity: 1
 
         &:hover
             box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-            opacity: .8
+            opacity: .5
 
-    > .title
-        font-size: 0.5rem
-        margin: 0 0 3px
+    > .link > .title
         text-decoration: none
+        font-weight: lighter
+        //border: 1px solid blue
 
-    > .description
+    > .link > .description
         font-size: 1.85rem
         font-weight: 100
         font-style: normal
