@@ -1,6 +1,6 @@
 # main text of home
 name: Alexander Hollander
-bio: Philly Unity Developer  Who is Interested in Data Science and Bioinformatics
+bio: Unity developer who is delving into data science and bioinformatics
 
 # twitter summary info
 description: The personal website of Alexsh
@@ -17,7 +17,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://alex-hollander.com
+url: https://alex-hollander.com
 # your url: http://USERNAME.github.io
 
 permalink: pretty
@@ -58,7 +58,7 @@ authors:
         name: Alexander Hollander
         bio: Unity Developer | Data Scientist
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: /assets/images/profile.jpg
         twitter: Ashen-Vaults
 
 
