@@ -20,7 +20,9 @@ description: We won! (GDC 2016)
 Two days ago we presented at Intel’s annual University Games Showcase at GDC in San Fransisco. 6 months of hard work culminated into a few minutes when we presented our game to some high players in the gaming world. Thankfully our hard work was very well received as we won 1st place in gameplay! It was by no means easy getting this award, as all the other games that competed were absolutely awesome in their own ways. This made the long trip from Philly absolutely worthwhile! Overall it was an amazing experience that couldn't have been possible without an equally amazing team.
 
 ---
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1d8IieR-cQI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
 
 ---
 
