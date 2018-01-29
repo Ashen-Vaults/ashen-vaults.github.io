@@ -30,9 +30,9 @@ permalink: pretty
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-#disqus:
-#  shortname: mydisqus # enter this from your disqus account
-#  categories: [blog, project] # only show disqus for posts that have these categories
+disqus:
+  shortname: alex-hollander # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -102,6 +102,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-jupyter-notebook
 
 jekyll-mentions:
     base_url: https://github.com
