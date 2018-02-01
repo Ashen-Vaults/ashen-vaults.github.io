@@ -7,11 +7,10 @@ title: Projects
     {% for post in site.posts %} {% if post.projects %}
     <header class="project-elem {% if site.animation %}elem-animated{% endif %}">
         <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">      
-              <h1 class="title">{{ post.title }}</h1>
-              <img class="selfie" src="{{post.image}}"/>
+             
+              
              <div class="item {% if post.star %}star{% endif %}">  
-
-    
+    					<img class="selfie" src="{{post.image}}"/>
             </div>          
         </a>
 

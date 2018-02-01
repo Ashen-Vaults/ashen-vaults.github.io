@@ -6,23 +6,19 @@
     z-index: 99
     padding: 18px
     margin: auto
+    
 
-    > .link
-        text-decoration: none
-        &:hover
-            opacity: .5
-
-    > .link > .selfie
-        //border: 1px solid green
+    > .link >.item > .selfie
+        border: 1px groove grey
         width: 150px
         height: 150px
         margin-bottom: 25px
         border-radius: 100%
         transition: all .2s
         box-shadow: 1px 1px 10px grey
-        opacity: 1
 
         &:hover
+            opacity: .5
             box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
 
     > .link > .title
@@ -35,8 +31,3 @@
         color: $gama
         width: 70%
         margin: 0 auto 10px
-
-        // if you put some links in your bio. ;)
-        a
-            font-weight: 200
-            text-decoration: none
