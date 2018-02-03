@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "perceptron",
+"dataUrl": "perceptron_master.data.unityweb",
+"asmCodeUrl": "perceptron_master.asm.code.unityweb",
+"asmMemoryUrl": "perceptron_master.asm.memory.unityweb",
+"asmFrameworkUrl": "perceptron_master.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

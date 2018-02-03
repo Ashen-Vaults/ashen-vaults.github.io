@@ -47,6 +47,10 @@ layout: page
     </div>
 {% endif %}
 
+{% if page.unity_dir %}
+   {% include page_unity.html %}
+{% endif %}
+
 {% if site.related contains page.category %}
     {% include related.html %}
 {% endif %}
