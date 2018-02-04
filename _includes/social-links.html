@@ -11,6 +11,15 @@
         </a>
     {% endif %}
 
+
+
+    {% if site.processing %}
+        <a class="link" data-title="openprocessing.com/user/{{ site.processing }}" href="http://openprocessing.com/user/{{ site.processing }}" target="_blank">
+            <svg class="icon icon-processing"><use xlink:href="#icon-processing"></use></svg>
+        </a>
+    {% endif %}
+
+
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
