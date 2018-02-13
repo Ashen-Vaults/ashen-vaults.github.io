@@ -97,7 +97,7 @@ show-author: true
 # do you want some animations?
 animation: true
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
