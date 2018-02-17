@@ -4,29 +4,29 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi, I'm Alex. I graduated from Drexel University in June 2016 with a bachelors in Computer Science with concentrations in Artifical Intelligence for Games and HCI. I'm primarily a Unity Developer (C#) who likes to get away with functional programming whenever I get a chance.
+I'm a software engineer who graduated from Drexel University in 2016 with a bachelors in computer science and concentrations in artificial intelligence for games and human-computer interaction.
 
-<a href="/project/2016/05/23/mirrors-of-grimaldi/">Some of the games I've worked on have even won awards!</a>
+Most of my programming career has been as a Unity developer creating educational and philanthropic games at Skyless Game Studios, but recently data science has become my passion. The power that data has to shape the world is humbling and I love the idea of using AI to benefit people. During my journey into data science, I look forward to learning something new every day.
 
-Along with game programming, I am interested in data science, and more specifically bioinformatics. I'm still relatively new to the field, but am currently taking some courses on Machine Learning, Genomic Data Science, and recently just finished a course on Statistics, so expect blog posts and projects in the very near future.
+If you have any questions, please feel free to contact me.
 
-*** 
+***
 
 ## Skills
 
 <ul class="skill-list">
-	<li>Unity</li>
-	<li>C#</li>
-	<li>Cg</li>
-	<li>Python</li>
-	<li>Jupyter</li>
-	<li>R</li>
-	<li>Git</li>
-	<li>Linux</li>
-	<li>Vim</li>
-	<li>Haskell</li>
+<li>Unity</li>
+<li>C#</li>
+<li>Cg</li>
+<li>Python</li>
+<li>Jupyter</li>
+<li>R</li>
+<li>Git</li>
+<li>Linux</li>
+<li>Vim</li>
+<li>Haskell</li>
 </ul>
 
 ---
 
-**Disclaimer**: This is a new, living website, that'll go through rapid changes pretty soon. 
+**Disclaimer**: This is a new, living website, that'll go through rapid changes pretty soon.
