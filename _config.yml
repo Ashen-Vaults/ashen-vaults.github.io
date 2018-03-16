@@ -13,9 +13,9 @@ picture2: assets/images/profile2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/Ashen-Vaults/resume/blob/master/alex_hollander_resume.pdf
 
 url: https://alex-hollander.com
 # your url: http://USERNAME.github.io
