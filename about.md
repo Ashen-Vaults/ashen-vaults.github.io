@@ -10,23 +10,4 @@ Most of my programming career has been as a Unity developer creating educational
 
 If you have any questions, please feel free to contact me.
 
-***
-
-## Skills
-
-<ul class="skill-list">
-<li>Unity</li>
-<li>C#</li>
-<li>Cg</li>
-<li>Python</li>
-<li>Jupyter</li>
-<li>R</li>
-<li>Git</li>
-<li>Linux</li>
-<li>Vim</li>
-<li>Haskell</li>
-</ul>
-
----
-
 **Disclaimer**: This is a new, living website, that'll go through rapid changes pretty soon.
