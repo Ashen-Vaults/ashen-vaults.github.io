@@ -1,6 +1,6 @@
 # main text of home
 name: Alexander Hollander
-bio: Unity developer who is delving into data science and bioinformatics
+bio: Unity Developer | Data Scientist
 
 # twitter summary info
 description: The personal website of Alexsh
@@ -13,9 +13,10 @@ picture2: assets/images/profile2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://alex-hollander.com/resume/alex_hollander_resume.pdf
+
 
 url: https://alex-hollander.com
 # your url: http://USERNAME.github.io
@@ -37,6 +38,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: ashen_vaults
+processing: 20040
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,7 +53,7 @@ stackoverflow: 9211786/alexsh
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: alexhollander522@gmail.com
+email: me@alex-hollander.com
 
 authors:
     alexsh:
@@ -96,7 +98,7 @@ show-author: true
 # do you want some animations?
 animation: true
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
