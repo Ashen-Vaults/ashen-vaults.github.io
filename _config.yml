@@ -37,8 +37,8 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mytwitter
-processing: 20040
+# twitter: mytwitter
+# processing: 20040
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -53,7 +53,7 @@ stackoverflow: 9211786/alexsh
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: me@alex-hollander.com
+# email: me@alex-hollander.com
 
 authors:
     alexsh:
@@ -61,7 +61,6 @@ authors:
         bio: Software Engineer
         external-image: false
         picture: /assets/images/profile.jpg
-        twitter: Ashen-Vaults
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
