@@ -1,3 +1,3 @@
 My personal website.
 
-http://alexsh.me/
+https://alexsh.me/
