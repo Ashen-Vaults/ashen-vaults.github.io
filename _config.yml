@@ -1,6 +1,6 @@
 # main text of home
-name: Alexander Hollander
-bio: Unity Developer | Aspiring Data Scientist
+name: Alex Hollander
+bio: Software Engineer
 
 # twitter summary info
 description: The personal website of Alexsh
@@ -13,12 +13,12 @@ picture2: assets/images/profile2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
-resume-url: https://alex-hollander.com/resume/alex_hollander_resume.pdf
+resume-url: 
 
 
-url: https://alex-hollander.com
+url: https://alexsh.me
 # your url: http://USERNAME.github.io
 
 permalink: pretty
@@ -57,8 +57,8 @@ email: me@alex-hollander.com
 
 authors:
     alexsh:
-        name: Alexander Hollander
-        bio: Unity Developer | Data Scientist
+        name: Alex Hollander
+        bio: Software Engineer
         external-image: false
         picture: /assets/images/profile.jpg
         twitter: Ashen-Vaults
