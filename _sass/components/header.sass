@@ -7,14 +7,16 @@
 
     > .link > .selfie
         width: 450px
-        border-radius: 100%
+        height: 300px
+        border-radius: 20px
         transition: all .2s
-        box-shadow: 1px 1px 10px grey
         opacity: 1
+        margin: 0 20px
 
         &:hover
-            box-shadow: 0 0px 4px 0 green
-            opacity: .6
+            box-shadow: 0 0px 12px 1px green
+            opacity: 0.9
+            transform: scale(1.025) // Slight zoom effect
 
     > .title
         font-size: 4rem
@@ -25,6 +27,7 @@
         font-weight: 300
         font-style: normal
         color: $gama
+        font-weight: bold
         width: 70%
         margin: 0 auto 30px
 
