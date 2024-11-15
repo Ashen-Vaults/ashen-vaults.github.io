@@ -21,10 +21,11 @@ I’ve excelled in both in-person and remote settings, and I find that remote wo
 
 ## Education
 
-Bachelors in Computer Science
-Concentrations: Human-Computer Interaction & Game Programming
-Drexel University | 2016 | Philadelphia, PA
-Deans List 2015, 2016
+- **Bachelors in Computer Science**
+- Concentrations: Human-Computer Interaction & Game Programming
+
+- **Drexel University** - 2016 - Philadelphia, PA
+- Deans List 2015, 2016
 
 <!-- ## Hobbies
 
@@ -41,29 +42,10 @@ Outside of programming, I enjoy:
 ---
 ## Favorites
 
-#### Games:
-- Diablo 2: LOD
-- TES: Oblivion
-- Alan Wake 2
-- Tony Hawk's Pro Skater 1-4
-- Session: Skate Sim
-- Myst
-- Portal
-- Golden Eye 007
-- Control
-- Demon Souls
+- **Games**: Diablo 2: LOD, TES: Oblivion, Alan Wake 2, Tony Hawk's Pro Skater 1-4, Session: Skate Sim, Myst, Portal, Golden Eye 007, Control, Demon Souls
 <br>
 <br>
-#### TV Shows:
-- Twin Peaks
-- X-Files
-- True Detective (Season 1)
-- Arrested Development
-- The Adventures of Pete & Pete
-- Monk
-- Eureka
-- The Sopranos
-- King of the Hill
+- **TV Shows**: Twin Peaks, X-Files, True Detective (Season 1), Arrested Development, The Adventures of Pete & Pete, Monk, Eureka, The Sopranos, King of the Hill, The Simpsons (Seasons 1-9)
 
 <!-- **Movies**:
 - The Goonies
