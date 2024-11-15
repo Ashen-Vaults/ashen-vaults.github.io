@@ -36,3 +36,13 @@ $nav-padding: 10px
             &:hover
                 color: $nav-hover-color
                 text-decoration: underline
+
+@media #{$mobile}
+    .nav
+        flex-direction: column
+        padding: 10px 0
+
+        .link
+            padding: 8px 0
+            font-size: 1.1rem
+
