@@ -6,30 +6,28 @@
     z-index: 99
 
     > .link > .selfie
-        width: 450px
-        height: 300px
-        border-radius: 20px
-        transition: all .2s
-        opacity: 1
-        margin: 0 20px
+        border: 3px solid $gama // Accent color
+        border-radius: 15px // Slight rounding
+        padding: 5px
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
+        transition: transform 0.3s, box-shadow 0.3s
 
         &:hover
-            box-shadow: 0 0px 12px 1px green
-            opacity: 0.9
-            transform: scale(1.025) // Slight zoom effect
+            transform: scale(1.05)
+            box-shadow: 0 0 5px $gama, 0 0 15px $gama
 
     > .title
         font-size: 4rem
         margin: 0 0 13px
 
     > .description
-        font-size: 1.85rem
+        font-size: 1.8rem
         font-weight: 300
-        font-style: normal
+        font-style: italic
         color: $gama
         font-weight: bold
         width: 70%
-        margin: 0 auto 30px
+        margin: 5px auto 30px
 
         // if you put some links in your bio. ;)
         a

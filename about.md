@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I’m **Alex**, a passionate software engineer with over 6 years of experience in the video game industry, specializing in cross-platform development, build pipeline automation, and performance optimization. I’ve worn many hats and quickly pick up new technologies—whether it’s graphics rendering in C++ with low-level APIs like DirectX 12, NVN, Agc, and Gnm, or automating build pipelines with Groovy and Python. When faced with a challenge, I don’t just find solutions—I make them work.
+I’m **Alex**, a passionate software engineer at **PHL Collective** with over 6 years of experience in the video game industry, specializing in cross-platform development, build pipeline automation, and performance optimization. I’ve worn many hats and quickly pick up new technologies—whether it’s graphics rendering in C++ with low-level APIs like DirectX 12, NVN, Agc, and Gnm, or automating build pipelines with Groovy and Python, and anything in between. When faced with a challenge, I don’t just find solutions—I make them work.
 
 Throughout my career, I’ve had the opportunity to collaborate closely with artists, designers, producers, writers, audio engineers, and fellow programmers to successfully ship 9 titles across multiple platforms. Each project presented its own unique challenges—some straightforward, others complex—and through teamwork and dedication, we achieved successful launches every time.
 
@@ -46,22 +46,6 @@ Outside of programming, I enjoy:
 <br>
 <br>
 - **TV Shows**: Twin Peaks, X-Files, True Detective (Season 1), Arrested Development, The Adventures of Pete & Pete, Monk, Eureka, The Sopranos, King of the Hill, The Simpsons (Seasons 1-9)
-
-<!-- **Movies**:
-- The Goonies
-- Shawshank Redemption
-- Re-Animator
-- Cemetery Man
-- Fright Night
-- Back to the Future
-- Hocus Pocus
-- Ernest Scared Stupid
-- Office Space
-- Jurassic Park
-
-**Books**:
-- Swamp Thing
-- Sandman
-- Salt
-- The Road
-- Blackhole -->
+<br>
+<br>
+- **Movies**: The Goonies, Shawshank Redemption, Re-Animator, Cemetery Man, Fright Night, Back to the Future, Hocus Pocus, Ernest Scared Stupid, Office Space, Jurassic Park

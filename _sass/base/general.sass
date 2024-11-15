@@ -16,7 +16,8 @@ body
     color: $alpha
     background-color: $background-color
     color: $text-color
-
+    margin: 0
+    padding: 0
 
 h1, h2, h3, h4
     font-family: $fontSans
@@ -61,10 +62,18 @@ strong
     font-weight: 400
 
 ul, ol
+    margin: 0
+    padding: 0
+    list-style: none
+    
     li
-        line-height: 2.4rem
-        font-weight: 300
-        color: $alpha
+        font-weight: 300   
+        margin-bottom: 10px
+        color: $text-color
+
+    strong
+        color: $gama
+
 
 // Image and Figure Styles
 img, pre, iframe
@@ -150,3 +159,5 @@ pre
 
 .content
     padding-top: 80px // Adjust this to match the height of your navigation bar
+
+
