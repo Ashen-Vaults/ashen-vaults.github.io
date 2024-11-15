@@ -14,12 +14,20 @@ $nav-padding: 10px
     z-index: 1000 // Ensures the navigation stays on top of other content
     background-color: $background-color
 
+    @media #{$mobile}
+        flex-direction: column
+        padding: 10px 0
+
     > .list
         list-style: none
         margin: 0 auto
         padding: 0
         display: flex
         justify-content: center
+
+        @media #{$mobile}
+                padding: 8px 0
+                font-size: 1.1rem
 
         > .item
             display: inline-block
@@ -36,13 +44,4 @@ $nav-padding: 10px
             &:hover
                 color: $nav-hover-color
                 text-decoration: underline
-
-@media #{$mobile}
-    .nav
-        flex-direction: column
-        padding: 10px 0
-
-        .link
-            padding: 8px 0
-            font-size: 1.1rem
 
