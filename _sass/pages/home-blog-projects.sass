@@ -9,6 +9,8 @@
         padding-top: 20px
         position: relative
         text-align: center
+        padding-left: 5%
+        padding-right: 5%
         &:before
             display: block
             content: " "
@@ -26,8 +28,10 @@
     > .item
         display: block
         width: 95%
-        margin: 5px auto
+        margin: 100px auto
         flex-direction: column
+        padding: 100px 0
+
         > .url
             width: 100%
             display: flex
@@ -39,7 +43,7 @@
                 margin: 0
                 flex: 1
                 font-weight: 500
-                white-space: nowrap
+                white-space: normal // Allows wrapping
                 overflow: hidden
                 text-overflow: ellipsis
                 transition: color ease-in-out .2s
@@ -68,30 +72,29 @@
         top: -4px
         margin-right: 10px
 
-
 .project-elem
     display: flex
     flex-direction: column
     align-items: center
     justify-content: center
     text-align: center
-    margin: 0 auto // Ensure the element centers within its container
-    padding: 2px 0 // Space above and below each blog element
+    margin: 0 auto
+    padding: 1px
 
     .item
         display: flex
         flex-direction: column
         align-items: center
         justify-content: center
-        width: 100% // Stretches the item across the container
-        max-width: 800px // Optional: Restrict the width for readability
-        margin: 0 auto // Centers the item itself
+        width: 100%
+        max-width: 1200px
+        margin: 0 auto
 
         .url
             display: flex
-            flex-direction: column
+            flex-direction: row
             align-items: center
-            justify-content: center
+            justify-content: space-between // Adds spacing between title and date
             text-decoration: none
             padding: 5px 0
 
@@ -107,15 +110,14 @@
             color: $beta
             font-weight: 400
             text-transform: uppercase
-            margin-bottom: 5px
-            text-align: center // Ensures date text stays centered
+            margin-left: 25px
+            padding: 25px
 
         .title
             font-size: 1.4rem
             font-weight: 600
             color: $delta
-            text-align: center // Ensures title is centered
-            white-space: nowrap
+            white-space: normal
             overflow: hidden
             text-overflow: ellipsis
             transition: transform 0.2s ease-in-out
