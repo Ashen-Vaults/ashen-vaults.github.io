@@ -23,21 +23,17 @@
         {% endif %}
 
         <li class="item">
-            <a class="link" href="{{ site.url }}/">Home</a>
+            <a class="link {% if page.title == 'Home' %}active{% endif %}" href="{{ site.url }}/">Home</a>
         </li>
-
-         <li class="item">
-            <a class="link" href="{{ site.url }}/about">About</a>
-        </li>    
-
         <li class="item">
-            <a class="link" href="{{ site.url }}/blog">Blog</a>
-        </li>        
-
-        <li class="item">
-            <a class="link" href="{{ site.url }}/projects">Projects</a>
+            <a class="link {% if page.title == 'About' %}active{% endif %}" href="{{ site.url }}/about">About</a>
         </li>
-
+        <li class="item">
+            <a class="link {% if page.title == 'Blog' %}active{% endif %}" href="{{ site.url }}/blog">Blog</a>
+        </li>
+        <li class="item">
+            <a class="link {% if page.title == 'Projects' %}active{% endif %}" href="{{ site.url }}/projects">Projects</a>
+        </li>
 
 
         {% if site.resume == true %}
