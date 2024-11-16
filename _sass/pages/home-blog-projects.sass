@@ -5,10 +5,10 @@
 
     > .list
         border-top: 1px solid $epsilon
-        margin-top: 30px
-        padding-top: 40px
+        margin-top: 20px
+        padding-top: 20px
         position: relative
-
+        text-align: center
         &:before
             display: block
             content: " "
@@ -26,13 +26,13 @@
     > .item
         display: block
         width: 95%
-        margin: 0 auto
-
+        margin: 5px auto
+        flex-direction: column
         > .url
             width: 100%
             display: flex
             align-items: center
-            padding: 20px 0
+            padding: 2px 0
             text-decoration: none
 
             > .title
@@ -67,3 +67,55 @@
         position: relative
         top: -4px
         margin-right: 10px
+
+
+.project-elem
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+    text-align: center
+    margin: 0 auto // Ensure the element centers within its container
+    padding: 2px 0 // Space above and below each blog element
+
+    .item
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: center
+        width: 100% // Stretches the item across the container
+        max-width: 800px // Optional: Restrict the width for readability
+        margin: 0 auto // Centers the item itself
+
+        .url
+            display: flex
+            flex-direction: column
+            align-items: center
+            justify-content: center
+            text-decoration: none
+            padding: 5px 0
+
+            &:hover .title
+                color: $gama
+                transform: scale(1.05)
+
+            &:hover .date
+                color: $delta
+
+        .date
+            font-size: 1rem
+            color: $beta
+            font-weight: 400
+            text-transform: uppercase
+            margin-bottom: 5px
+            text-align: center // Ensures date text stays centered
+
+        .title
+            font-size: 1.4rem
+            font-weight: 600
+            color: $delta
+            text-align: center // Ensures title is centered
+            white-space: nowrap
+            overflow: hidden
+            text-overflow: ellipsis
+            transition: transform 0.2s ease-in-out

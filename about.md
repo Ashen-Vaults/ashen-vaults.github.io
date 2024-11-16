@@ -18,7 +18,7 @@ I’ve excelled in both in-person and remote settings, and I find that remote wo
 - **Tools**: Visual Studio, RenderDoc, SDL2, Perforce, Plastic SCM, Git, Jenkins, Jira, ClickUp, FMOD, Linux, Discord
 - **Platforms**: PS4, PS5, Xbox One, Xbox Series X, Nintendo Switch, Windows, Steamdeck, iOS, Android
 
-
+<br>
 ## Education
 
 - **Bachelors in Computer Science**
